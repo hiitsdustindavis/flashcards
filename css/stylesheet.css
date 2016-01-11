@@ -1,0 +1,14 @@
+.answer {
+  display: none
+}
+
+.card {
+  height: 400px;
+  width: 250px;
+  border-radius: 6px;
+  border: 1px solid black;
+  text-align: center;
+  padding: 30px 10px;
+  float: left;
+  margin: 1em;
+}
